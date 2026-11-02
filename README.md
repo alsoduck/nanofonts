@@ -1,5 +1,5 @@
 # 나노조합글꼴
-8x4x4벌식(도깨비한글) 폰트입니다. 개발중입니다.
+8x4x4벌식(도깨비한글) 폰트입니다. 아직 개발중인 상태로, 사용하는 것을 권하지 않습니다.
 
 ## 나노굴림
 [8x4x4벌식(NanoGulim844.FNT)](https://github.com/alsoduck/nano-johab-fonts/raw/refs/heads/main/NanoGulim844.FNT) <br>
